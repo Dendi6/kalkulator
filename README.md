@@ -9,6 +9,8 @@ untuk melakukan perhitungan sederhana
 untuk memulai projek lakukan clone. dengan cara
 > git clone https://github.com/dendi6/kalkulator.git
 
+coba ya guys
+
 ---
 ## Contributor
 - Dendi
