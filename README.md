@@ -11,6 +11,8 @@ untuk memulai projek lakukan clone. dengan cara
 
 coba ya guys
 
+kita
+
 ---
 ## Contributor
 - Dendi
